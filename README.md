@@ -1,7 +1,7 @@
 # ♻️ECOLETA
 
 <div>
-    <img src="https://raw.githubusercontent.com/FranciscoOssianFOLN/NLW-01/master/github_assets/home_desktop.PNG">
+    <img src="https://imgur.com/a/V1n6Ktf">
 </div>
 
 This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter
