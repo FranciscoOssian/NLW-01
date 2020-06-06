@@ -15,24 +15,24 @@ These instructions will get you a copy of the project up and running on your loc
 $ git clone *this repo link*
 ```
 
-##### Open the server folder:
-###### Create a a DataBase
+### Open the server folder:
+#### Create a a DataBase
 ```
 $ npm run knex:migrate
 $ npm run knex:seed
 ```
-###### Runing the backend
+#### Runing the backend
 ```
 $ npm run dev
 ```
 
-##### Open the web folder
-###### Running front-end
+### Open the web folder
+#### Running front-end
 ```
 $ npm start
 ```
-##### Open the mobile folder
-###### Running expo project
+### Open the mobile folder
+#### Running expo project
 ```
 $ npm start
 ```
