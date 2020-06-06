@@ -16,7 +16,7 @@ $ git clone *this repo link*
 ```
 
 ### Open the server folder:
-#### Create a a DataBase
+#### Create a DataBase
 ```
 $ npm run knex:migrate
 $ npm run knex:seed
