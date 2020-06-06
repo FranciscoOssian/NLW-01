@@ -1,7 +1,7 @@
 # ECOLETA
 
 <div>
-    <img src="./github_assets/home_desktopo.PNG">
+    <img src="https://raw.githubusercontent.com/FranciscoOssianFOLN/NLW-01/master/github_assets/home_desktop.PNG">
 </div>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
