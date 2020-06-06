@@ -1,5 +1,8 @@
-# NLW
+# ECOLETA
 
+<div>
+    <img src="./github_assets/home_desktopo.PNG">
+</div>
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter
