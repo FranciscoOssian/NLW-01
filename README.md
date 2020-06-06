@@ -15,27 +15,29 @@ These instructions will get you a copy of the project up and running on your loc
 $ git clone *this repo link*
 ```
 
-### Open the file server/src/config/ip.config.ts
+### Configuring
+
+#### Open the file server/src/config/ip.config.ts
 And set the local ip with the same IP in expo start in LAN mode
 
-### Open the server folder:
-#### Create a DataBase
+#### Open the server folder:
+##### Create a DataBase
 ```
 $ npm run knex:migrate
 $ npm run knex:seed
 ```
-#### Runing the backend
+##### Runing the backend
 ```
 $ npm run dev
 ```
 
-### Open the web folder
-#### Running front-end
+#### Open the web folder
+##### Running front-end
 ```
 $ npm start
 ```
-### Open the mobile folder
-#### Running expo project
+#### Open the mobile folder
+##### Running expo project
 ```
 $ npm start
 ```
