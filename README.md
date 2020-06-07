@@ -4,8 +4,8 @@
     <img src="https://raw.githubusercontent.com/FranciscoOssianFOLN/NLW-01/7b0b3cb1a905c0a44c2e96a5e35f820b7ed5140d/.github_assets/home_desktop.svg">
 </div>
 
-## Result of Code
-<div >
+## 💻Result of Code
+<div align="center">
     <img src ="https://i.imgur.com/vtGOWfh.gif" height="387" widht="204">
     <img src ="https://i.imgur.com/g5hpWEi.gif" height="387" widht="650">
 </div>
