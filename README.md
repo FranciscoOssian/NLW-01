@@ -6,8 +6,8 @@
 
 ## Result of Code
 <div display="flex">
-    <img src ="https://i.imgur.com/vtGOWfh.gif">
-    <img src ="https://i.imgur.com/g5hpWEi.gif">
+    <img src ="https://i.imgur.com/vtGOWfh.gif" height="225" widht="103">
+    <img src ="https://i.imgur.com/g5hpWEi.gif" height="225" widht="400">
 </div>
 
 This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter
