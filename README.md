@@ -6,8 +6,8 @@
 
 ## Result of Code
 <div >
-    <img src ="https://i.imgur.com/vtGOWfh.gif" height="347" widht="164">
-    <img src ="https://i.imgur.com/g5hpWEi.gif" height="347" widht="610">
+    <img src ="https://i.imgur.com/vtGOWfh.gif" height="387" widht="204">
+    <img src ="https://i.imgur.com/g5hpWEi.gif" height="387" widht="650">
 </div>
 
 This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter
