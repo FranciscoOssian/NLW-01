@@ -6,7 +6,7 @@
 
 ## Result of Code
 <div>
-    <img src ="https://i.imgur.com/PdID0Nr.gif" lenght="450" width="207">
+    <img src ="https://i.imgur.com/PdID0Nr.gif" height="450" width="207">
     <img src ="https://i.imgur.com/g5hpWEi.gif">
 </div>
 
