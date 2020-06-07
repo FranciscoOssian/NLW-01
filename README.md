@@ -4,12 +4,6 @@
     <img src="https://i.imgur.com/IEbqe4C.png">
 </div>
 
-## Result of Code
-
-<div>
-    <img src="https://i.imgur.com/e053Bxw.gif" width="500" height="700">
-    <img src="https://i.imgur.com/Ea2lYFt.gif" width="360" height="640">
-</div>
 
 This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter
 
