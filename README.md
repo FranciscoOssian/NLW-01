@@ -1,7 +1,7 @@
 # ♻️ECOLETA
 
 <div>
-    <img src="https://raw.githubusercontent.com/FranciscoOssianFOLN/NLW-01/master/.github_assets/home_desktop.svg">
+    <img src="https://raw.githubusercontent.com/FranciscoOssianFOLN/NLW-01/7b0b3cb1a905c0a44c2e96a5e35f820b7ed5140d/.github_assets/home_desktop.svg">
 </div>
 
 
