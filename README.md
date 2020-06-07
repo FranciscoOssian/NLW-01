@@ -5,7 +5,7 @@
 </div>
 
 ## Result of Code
-<div>
+<div display="flex">
     <img src ="https://i.imgur.com/vtGOWfh.gif">
     <img src ="https://i.imgur.com/g5hpWEi.gif">
 </div>
