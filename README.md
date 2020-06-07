@@ -4,6 +4,11 @@
     <img src="https://raw.githubusercontent.com/FranciscoOssianFOLN/NLW-01/7b0b3cb1a905c0a44c2e96a5e35f820b7ed5140d/.github_assets/home_desktop.svg">
 </div>
 
+## Result of Code
+<div>
+    <img src ="https://i.imgur.com/PdID0Nr.gif">
+    <img src ="https://i.imgur.com/g5hpWEi.gif">
+</div>
 
 This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter
 
