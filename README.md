@@ -1,7 +1,14 @@
 # ♻️ECOLETA
 
 <div>
-    <img src="https://imgur.com/a/V1n6Ktf">
+    <img src="https://i.imgur.com/IEbqe4C.png">
+</div>
+
+## Result of Code
+
+<div>
+    <img src="https://i.imgur.com/DQK2Crb.gifv">
+    <img src="https://i.imgur.com/AIkjozi.gifv">
 </div>
 
 This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter
