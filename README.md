@@ -10,7 +10,7 @@
     <img src ="https://i.imgur.com/g5hpWEi.gif" height="387" widht="650">
 </div>
 
-This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter
+<p>This projet was created during Next Level Week, organized by RocketSeat. With some modifications proposed by teacher/presenter</p>
 
 ## 🚀Getting Started
 
